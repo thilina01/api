@@ -34,9 +34,9 @@
                 "link": "https://github.com/thilina01/"
             },
             {
-                "name": "Twitter",
+                "name": "Apache",
                 "value": "thilina01",
-                "link": "https://twitter.com/thilina01"
+                "link": "mailto:thilina01@apache.org?Subject=Opportunity"
             }
         ]
     },
@@ -121,10 +121,16 @@
                 "organisation": "The Apache Software Foundation",
                 "positions": [
                     {
-                        "designation": "Contributor - Netbeans (incubating)",
+                        "designation": "Committer / PPMC Member - Netbeans",
+                        "description": "Code, Lead NetCAT RCP tribe, Review test specs, Technical Writing",
+                        "startDate": "2018/09/18",
+                        "endDate": ""
+                    },
+                    {
+                        "designation": "Contributor - Netbeans",
                         "description": "Code, Lead NetCAT RCP tribe, Review test specs, Technical Writing",
                         "startDate": "2017/01/01",
-                        "endDate": ""
+                        "endDate": "2018/09/18"
                     }
                 ]
             },
