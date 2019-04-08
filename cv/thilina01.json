@@ -135,13 +135,24 @@
                 ]
             },
             {
+                "organisation": "SCICOM - E Solutions",
+                "positions": [
+                    {
+                        "designation": "Specialist Tech-lead",
+                        "description": "Lead, Train, Optimization, Security, Deployeement",
+                        "startDate": "2018/11/12",
+                        "endDate": ""
+                    }
+                ]
+            },
+            {
                 "organisation": "Nano Creation (Pvt) Ltd.",
                 "positions": [
                     {
                         "designation": "Associate DevOps Engineer",
                         "description": "CI, CD, Travis, SSH, Confluence, Docker, GCP, AWS",
                         "startDate": "2018/04/01",
-                        "endDate": ""
+                        "endDate": "2018/11/12"
                     },
                     {
                         "designation": "Technology Specialist",
