@@ -14,11 +14,6 @@
                 "link": "tel:+94776667121"
             },
             {
-                "name": "Mobile",
-                "value": "+94 71 806 5068",
-                "link": "tel:+94718065068"
-            },
-            {
                 "name": "Email",
                 "value": "r.thilina@gmail.com",
                 "link": "mailto:r.thilina@gmail.com?Subject=Opportunity"
@@ -81,7 +76,10 @@
         "isEnabled": true,
         "paragraphList": [
             {
-                "text": "I am a software engineer with a passion for coding with 10 years’ experience under my belt. I believe in working hard and producing high-quality codes responsibly with next to no optimizations required. I always look to share my expertise with the community and lecture on software engineering in various institutes and help out contributors online when possible. I contribute to large open source projects mainly to Apache Netbeans which I am most passionate about. Excellent experience in requirement engineering, implementation, and configuration & collaboration management. Expert in a variety of frameworks such as Spring, Angular and languages such as Java, Javascript, Typescript. Adept at going beyond that of a developer to that of a user advocate and product manager. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues."
+                "text": "I believe in working hard and producing high-quality codes responsibly with next to no optimizations required. I always look to share my expertise with the community and help out opensource contributors online when possible. I contribute to large open source project Apache Netbeans which I am most passionate about."
+            },
+	        {
+                "text": "Excellent experience in requirement engineering, implementation, and configuration & collaboration management. Expert in a variety of frameworks such as Spring, Angular and languages such as Java, Javascript, Typescript. Adept at going beyond that of a developer to that of a user advocate and product manager. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues."
             }
         ]
     },
@@ -281,12 +279,8 @@
         "isEnabled": true,
         "records": [
             {
-                "name": "Ranked in Sri Lanka amongst the top 5 in TypeScript and top 50 in Java as of Sep 18, 2018",
+                "name": "Ranked amongst the top 1% in Java, top 3% in TypeScript and top 12% in JavaScript as of April 8, 2019",
                 "link": "https://profile.codersrank.io/user/thilina01"
-            },
-            {
-                "name": "Google Play Account",
-                "link": "https://play.google.com/store/apps/developer?id=Thilina+Ranathunga"
             },
             {
                 "name": "The Apache NetBeans Team",
