@@ -87,14 +87,77 @@
         "isEnabled": true,
         "records": [
             {
-                "projectName": "Apache NetBeans",
-                "projectDescription": "Development Environment, Tooling Platform and Application Framework. ",
+                "projectName": "Apache NetBeans - Development Environment, Tooling Platform and Application Framework. ",
+                "projectDescription": " Globally recognized most stable IDE. The largest project under apache ",
                 "technologies": [
                     "Java",
                     "git",
                     "Travis",
                     "Jenkins",
-                    "ant"
+                    "ant",
+                    "Configuration Management",
+                    "Leading Team",
+                    "Administrating LinkedIn Group",
+                    "Moderating Mailling lists",
+                    "Documentation"
+                ]
+            },
+            {
+                "projectName": "SibMS - Border Control, Travel document, User Mangement, Counter, Mobile Clearance for passenger ships",
+                "projectDescription": " Border management system for airports, Harbours and any other cross border gateways ",
+                "technologies": [
+                    "Java",
+                    "Spring (Data, REST, Security) ",
+                    "Angular",
+                    "git",
+                    "tomcat",
+                    "linux",
+                    "MySQL",
+                    "Device Integration",
+                    "Configuration Management",
+                    "Leading Team"
+                ]
+            },
+            {
+                "projectName": "Pay gateway integration system - Department of Immigration and Emigration Sri Lanka",
+                "projectDescription": " Integration platform to handle and work with multiple payment gateway service providers with automated reporting capabilities ",
+                "technologies": [
+                    "Java",
+                    "Spring (Boot, Data, REST, Security) ",
+                    "Angular",
+                    "IPG",
+                    "git",
+                    "tomcat",
+                    "linux"
+                ]
+            },
+            {
+                "projectName": "Production Monitoring and KPI - OTR Wheel Engineering",
+                "projectDescription": " Progress monitoring, analysis and reporting with charting for unlimited variations of KPI data ranges  ",
+                "technologies": [
+                    "Java",
+                    "Spring (Boot, Data, REST, Security) ",
+                    "Angular",
+                    "System Design",
+                    "Leading Development",
+                    "CI/CD",
+                    "git",
+                    "tomcat",
+                    "MySQL",
+                    "linux"
+                ]
+            },
+            {
+                "projectName": "nBiz - Front to back total SCM and Retail management solution",
+                "projectDescription": " ",
+                "technologies": [
+                    "Java",
+                    "Netbeans RCP",
+                    "System Design",
+                    "Leading Development",
+                    "CI/CD",
+                    "MySQL",
+                    "git"
                 ]
             }
         ]
@@ -106,7 +169,7 @@
                 "organisation": "The Apache Software Foundation",
                 "positions": [
                     {
-                        "designation": "Committer / PPMC Member - Netbeans",
+                        "designation": "Committer / PMC Member - Netbeans",
                         "description": "Code, Lead, Review, Discuss, Write",
                         "startDate": "2018/09/18",
                         "endDate": ""
@@ -120,10 +183,10 @@
                 ]
             },
             {
-                "organisation": "SCICOM - E Solutions",
+                "organisation": "Scicom Lanka (Private) Limited / Scicom (MSC) Bhd",
                 "positions": [
                     {
-                        "designation": "Specialist Tech-lead",
+                        "designation": "Specialist Technical lead",
                         "description": "Lead, Train, Optimization, Security, Deployment",
                         "startDate": "2018/11/12",
                         "endDate": ""
@@ -137,7 +200,7 @@
                         "designation": "Associate DevOps Engineer",
                         "description": "CI, CD, Travis, SSH, Confluence, Docker, GCP, AWS",
                         "startDate": "2018/04/01",
-                        "endDate": "2018/11/12"
+                        "endDate": "2018/11/10"
                     },
                     {
                         "designation": "Technology Specialist",
@@ -248,7 +311,7 @@
         ]
     },
     "publicationData": {
-        "isEnabled": true,
+        "isEnabled": false,
         "records": [
             {
                 "title": "Linux Mint 19 — Stable & Production ready Setup (Spring, Angular, NodeJS, LAMP, PhpMyAdmin) for full-stack developers",
@@ -266,7 +329,7 @@
         "isEnabled": true,
         "records": [
             {
-                "name": "Ranked amongst the top 1% in Java, top 3% in TypeScript and top 12% in JavaScript as of April 8, 2019",
+                "name": "Ranked amongst the top 6% in Java, top 1% in Angular, top 4% in TypeScript and top 19% in JavaScript as of July 24, 2019",
                 "link": "https://profile.codersrank.io/user/thilina01"
             },
             {
@@ -284,6 +347,14 @@
             {
                 "name": "Online version of this CV",
                 "link": "https://thilina01.com/cv/"
+            },
+            {
+                "name": "An Artical on Linux Mint 19 — Stable & Production ready Setup",
+                "link": "https://medium.com/@r.thilina/linux-mint-19-stable-production-ready-setup-spring-angular-nodejs-lamp-phpmyadmin-for-4cab596aa3"
+            },
+            {
+                "name": "An Artical on Configuring a server to host apps on multiple technologies",
+                "link": "https://dzone.com/articles/guide-ubuntu-server-apache-tomcat-spring-mysql-wor"
             }
         ]
     },
