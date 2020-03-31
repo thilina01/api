@@ -172,6 +172,17 @@
         "isEnabled": true,
         "records": [
             {
+                "organisation": "CMS (Private) Limited",
+                "positions": [
+                    {
+                        "designation": "Senior Software Engineer",
+                        "description": "Angular, Spring, Docker, CD, CI, ELK",
+                        "startDate": "2019/12/02",
+                        "endDate": ""
+                    }
+                ]
+            },
+            {
                 "organisation": "The Apache Software Foundation",
                 "positions": [
                     {
@@ -195,7 +206,7 @@
                         "designation": "Specialist Technical lead",
                         "description": "Lead, Train, Optimization, Security, Deployment",
                         "startDate": "2018/11/12",
-                        "endDate": ""
+                        "endDate": "2020/11/29"
                     }
                 ]
             },
