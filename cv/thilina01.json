@@ -394,15 +394,31 @@
         "refereeList": [
             {
                 "name": "Geertjan Wielenga",
-                "designation": "Senior Principal Product Manager",
-                "organization": "Oracle",
+                "designation": "Apache NetBeans PMC Chair & Apache Member",
+                "organization": "The Apache Software Foundation",
                 "contactList": [
                     {
                         "name": "Email",
-                        "value": "geertjan.wielenga@oracle.com"
+                        "value": "geertjan@apache.com"
                     }
                 ]
+            },
+            {
+                "name": "Nuwan Obeyesekera",
+                "designation": "Associate Architect - SQE",
+                "organization": "SCICOM Lanka (Pvt) Ltd",
+                "contactList": [
+                    {
+                        "name": "Email",
+                        "value": "nuwan.obeyesekera@scicom.com.my"
+                    },
+                    {
+                        "name": "Phone",
+                        "value": "+94 770032766"
+                    },
+                ]
             }
+	    
         ]
     },
     "techHistoryData": {
