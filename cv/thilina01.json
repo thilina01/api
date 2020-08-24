@@ -1,489 +1,531 @@
 {
-    "headData": {
-        "isEnabled": true,
-        "isImageEnabled": true,
-        "name": "Thilina Ranathunga",
-        "title": [
-            "MBCS",
-            "SCJP"
+  "headData": {
+    "isEnabled": true,
+    "isImageEnabled": true,
+    "name": "Thilina Ranathunga",
+    "title": [
+      "MBCS",
+      "SCJP"
+    ],
+    "contactList": [
+      {
+        "name": "Mobile",
+        "value": "+94 77 666 7121",
+        "link": "tel:+94776667121"
+      },
+      {
+        "name": "Email",
+        "value": "r.thilina@gmail.com",
+        "link": "mailto:r.thilina@gmail.com?Subject=Opportunity"
+      },
+      {
+        "name": "LinkedIn",
+        "value": "thilina01",
+        "link": "https://www.linkedin.com/in/thilina01"
+      },
+      {
+        "name": "GitHub",
+        "value": "thilina01",
+        "link": "https://github.com/thilina01/"
+      },
+      {
+        "name": "Apache",
+        "value": "thilina01",
+        "link": "mailto:thilina01@apache.org?Subject=Opportunity"
+      }
+    ]
+  },
+  "interestedData": {
+    "isEnabled": false,
+    "records": [
+      {
+        "positions": [
+          "TechLead",
+          "SSE",
+          "DevOps Engineer",
+          "(Java, Angular, Spring)"
         ],
+        "locations": [
+          "Sri Lanka",
+          "Singapore",
+          "Remote"
+        ]
+      }
+    ]
+  },
+  "recommendationsData": {
+    "isEnabled": true,
+    "records": [
+      {
+        "name": "Geertjan Wielenga",
+        "designation": "PMC Chair - Apache NetBeans",
+        "organisation": "The Apache Software Foundation",
         "contactList": [
-            {
-                "name": "Mobile",
-                "value": "+94 77 666 7121",
-                "link": "tel:+94776667121"
-            },
-            {
-                "name": "Email",
-                "value": "r.thilina@gmail.com",
-                "link": "mailto:r.thilina@gmail.com?Subject=Opportunity"
-            },
-            {
-                "name": "LinkedIn",
-                "value": "thilina01",
-                "link": "https://www.linkedin.com/in/thilina01"
-            },
-            {
-                "name": "GitHub",
-                "value": "thilina01",
-                "link": "https://github.com/thilina01/"
-            },
-            {
-                "name": "Apache",
-                "value": "thilina01",
-                "link": "mailto:thilina01@apache.org?Subject=Opportunity"
-            }
+          {
+            "name": "Email",
+            "value": "geertjan@apache.com"
+          }
+        ],
+        "date": "29/08/2018",
+        "source": "https://www.linkedin.com/in/thilina01/",
+        "recommendation": "Thilina is an absolute hero in the Apache NetBeans community. He works independently and delivers very high quality code. His reviews and helpfulness have been critical to the progression of the Apache NetBeans project too. He does extremely complex tasks quickly and very professionally. I cannot recommend him highly enough!"
+      }
+    ]
+  },
+  "summaryData": {
+    "isEnabled": true,
+    "paragraphList": [
+      {
+        "text": "I believe in working hard and producing high-quality codes responsibly with next to no optimizations required. Excellent knowledge and practice in a variety of frameworks such as Spring, Angular and languages such as Java, Javascript, Typescript."
+      },
+      {
+        "text": "Some of the activities I am very interested and highly skilled includes Code optimization, setting and maintaining organizational coding standards, code review & evaluation, R & D, hardware device integration, configuration & release management, Application monitoring and configuring alerts."
+      },
+      {
+        "text": "Monitoring the performance and behavior of deployed application is nowadays one of a key critical factor to maintain healthy and reliable service all the time while maintaining  the low to no down time. So, I am very interested in focusing in to that area as well."
+      },
+      {
+        "text": "Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues by guiding the team towards the goal while maintaining the quality of the product."
+      },
+      {
+        "text": "I always look to share my expertise with the community and help out open-source contributors online when possible. I contribute to the large open-source project “Apache Netbeans” which I am most passionate about."
+      }
+    ]
+  },
+  "projectsData": {
+    "isEnabled": true,
+    "records": [
+      {
+        "projectName": "Apache NetBeans - Development Environment, Tooling Platform and Application Framework. ",
+        "projectDescription": " Globally recognized most stable IDE. The largest project under apache ",
+        "technologies": [
+          "Java",
+          "git",
+          "Travis",
+          "Jenkins",
+          "ant",
+          "Configuration Management",
+          "Leading Team",
+          "Administrating LinkedIn Group",
+          "Moderating Mailing lists",
+          "Documentation"
         ]
-    },
-    "interestedData": {
-        "isEnabled": false,
-        "records": [
-            {
-                "positions": [
-                    "TechLead",
-                    "SSE",
-                    "DevOps Engineer",
-                    "(Java, Angular, Spring)"
-                ],
-                "locations": [
-                    "Sri Lanka",
-                    "Singapore",
-                    "Remote"
-                ]
-            }
+      },
+      {
+        "projectName": "SibMS - Border Control, Travel document, User Mangement, Counter, Mobile Passenger Clearance",
+        "projectDescription": " Border management system for airports, Harbours and any other cross border gateways ",
+        "technologies": [
+          "Java",
+          "Spring (Data, REST, Security) ",
+          "Angular",
+          "git",
+          "tomcat",
+          "linux",
+          "MySQL",
+          "Device Integration",
+          "Configuration Management",
+          "Leading Team"
         ]
-    },
-    "recommendationsData": {
-        "isEnabled": true,
-        "records": [
-            {
-                "name": "Geertjan Wielenga",
-                "designation": "Senior Principal Product Manager",
-                "organisation": "Oracle",
-                "contactList": [
-                    {
-                        "name": "Email",
-                        "value": "geertjan.wielenga@oracle.com"
-                    }
-                ],
-                "date": "29/08/2018",
-                "source": "https://www.linkedin.com/in/thilina01/",
-                "recommendation": "Thilina is an absolute hero in the Apache NetBeans community. He works independently and delivers very high quality code. His reviews and helpfulness have been critical to the progression of the Apache NetBeans project too. He does extremely complex tasks quickly and very professionally. I cannot recommend him highly enough!"
-            }
+      },
+      {
+        "projectName": "eBox Belgium - API for digital document delivery ",
+        "projectDescription": " Subscription based API for submitting bills or any electronic documents to National ID based digital box for Belgium nationals. ",
+        "technologies": [
+          "Java",
+          "Spring (Data, REST, Security) ",
+          "Git",
+          "Linux",
+          "DB2",
+          "Microservices",
+          "Artemis",
+          "Filebeat",
+          "Logstash",
+          "Kibana",
+          "elastalert",
+          "Docker",
+          "Portainer",
+          "Jenkins"
         ]
-    },
-    "summaryData": {
-        "isEnabled": true,
-        "paragraphList": [
-            {
-                "text": "I believe in working hard and producing high-quality codes responsibly with next to no optimizations required. Excellent knowledge and practice in a variety of frameworks such as Spring, Angular and languages such as Java, Javascript, Typescript."
-            },
-		{
-                "text": "Some of the activities I am very interested and highly skilled includes Code optimization, setting and maintaining organizational coding standards, code review & evaluation, R & D, hardware device integration, configuration & release management. "
-            },
-	        {
-                "text": "Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues by guiding the team towards the goal while maintaining the quality of the product."
-		},
-	        {
-                "text": "I always look to share my expertise with the community and help out opensource contributors online when possible. I contribute to the large open-source project “Apache Netbeans” which I am most passionate about."
-		}
+      },
+      {
+        "projectName": "MMBE ETL - Large Data migration project from DB2 to mongodb",
+        "projectDescription": "Spring batch based parallel processing multi threaded application to migrate over 6 million records from DB2 to mongodb",
+        "technologies": [
+          "Java",
+          "Spring (Data, REST, Batch) ",
+          "Git",
+          "Linux",
+          "DB2",
+          "Microservices",
+          "Artemis",
+          "Filebeat",
+          "Logstash",
+          "Kibana",
+          "elastalert",
+          "Docker",
+          "Portainer",
+          "Jenkins"
         ]
-    },
-    "projectsData": {
-        "isEnabled": true,
-        "records": [
-            {
-                "projectName": "Apache NetBeans - Development Environment, Tooling Platform and Application Framework. ",
-                "projectDescription": " Globally recognized most stable IDE. The largest project under apache ",
-                "technologies": [
-                    "Java",
-                    "git",
-                    "Travis",
-                    "Jenkins",
-                    "ant",
-                    "Configuration Management",
-                    "Leading Team",
-                    "Administrating LinkedIn Group",
-                    "Moderating Mailling lists",
-                    "Documentation"
-                ]
-            },
-            {
-                "projectName": "SibMS - Border Control, Travel document, User Mangement, Counter, Mobile Passenger Clearance",
-                "projectDescription": " Border management system for airports, Harbours and any other cross border gateways ",
-                "technologies": [
-                    "Java",
-                    "Spring (Data, REST, Security) ",
-                    "Angular",
-                    "git",
-                    "tomcat",
-                    "linux",
-                    "MySQL",
-                    "Device Integration",
-                    "Configuration Management",
-                    "Leading Team"
-                ]
-            },
-            {
-                "projectName": "Pay gateway integration system - Department of Immigration and Emigration Sri Lanka",
-                "projectDescription": " Integration platform to handle and work with multiple payment gateway service providers with automated reporting capabilities ",
-                "technologies": [
-                    "Java",
-                    "Spring (Boot, Data, REST, Security) ",
-                    "Angular",
-                    "IPG",
-                    "git",
-                    "tomcat",
-                    "linux"
-                ]
-            },
-            {
-                "projectName": "Production Monitoring and KPI - OTR Wheel Engineering",
-                "projectDescription": " Progress monitoring, analysis and reporting with charting for unlimited variations of KPI data ranges  ",
-                "technologies": [
-                    "Java",
-                    "Spring (Boot, Data, REST, Security) ",
-                    "Angular",
-                    "System Design",
-                    "Leading Development",
-                    "CI/CD",
-                    "git",
-                    "tomcat",
-                    "MySQL",
-                    "linux"
-                ]
-            },
-            {
-                "projectName": "nBiz - Front to back total SCM and Retail management solution",
-                "projectDescription": " ",
-                "technologies": [
-                    "Java",
-                    "Netbeans RCP",
-                    "System Design",
-                    "Leading Development",
-                    "CI/CD",
-                    "MySQL",
-                    "git"
-                ]
-            }
+      },
+      {
+        "projectName": "Pay gateway integration system - Department of Immigration and Emigration Sri Lanka",
+        "projectDescription": " Integration platform to handle and work with multiple payment gateway service providers with automated reporting capabilities ",
+        "technologies": [
+          "Java",
+          "Spring (Boot, Data, REST, Security) ",
+          "Angular",
+          "IPG",
+          "git",
+          "tomcat",
+          "linux"
         ]
-    },
-    "experienceData": {
-        "isEnabled": true,
-        "records": [
-            {
-                "organisation": "CMS (Private) Limited",
-                "positions": [
-                    {
-                        "designation": "Senior Software Engineer",
-                        "description": "Spring, Angular, Docker, CD, CI, ELK",
-                        "startDate": "2019/12/02",
-                        "endDate": ""
-                    }
-                ]
-            },
-            {
-                "organisation": "The Apache Software Foundation",
-                "positions": [
-                    {
-                        "designation": "Committer / PMC Member - Netbeans",
-                        "description": "Code, Lead, Review, Discuss, Write",
-                        "startDate": "2018/09/18",
-                        "endDate": ""
-                    },
-                    {
-                        "designation": "Contributor - Netbeans",
-                        "description": "Code, Lead, Review, Discuss, Write",
-                        "startDate": "2017/01/01",
-                        "endDate": "2018/09/18"
-                    }
-                ]
-            },
-            {
-                "organisation": "Scicom Lanka (Private) Limited / Scicom (MSC) Bhd",
-                "positions": [
-                    {
-                        "designation": "Specialist Technical lead",
-                        "description": "Lead, Train, Optimization, Security, Deployment",
-                        "startDate": "2018/11/12",
-                        "endDate": "2019/11/29"
-                    }
-                ]
-            },
-            {
-                "organisation": "Nano Creation (Pvt) Ltd.",
-                "positions": [
-                    {
-                        "designation": "Associate DevOps Engineer",
-                        "description": "CI, CD, Travis, SSH, Confluence, Docker, GCP, AWS",
-                        "startDate": "2018/04/01",
-                        "endDate": "2018/11/10"
-                    },
-                    {
-                        "designation": "Technology Specialist",
-                        "description": "Java, Spring, Angular, REST",
-                        "startDate": "2017/01/01",
-                        "endDate": "2018/03/31"
-                    },
-                    {
-                        "designation": "Techlead",
-                        "description": "Java, Spring, Angular, REST",
-                        "startDate": "2016/02/01",
-                        "endDate": "2017/01/01"
-                    },
-                    {
-                        "designation": "Senior Software Engineer",
-                        "description": "Java, Spring, MySQL, Netbeans RCP",
-                        "startDate": "2014/04/01",
-                        "endDate": "2016/02/01"
-                    },
-                    {
-                        "designation": "Software Engineer",
-                        "description": "Java, JPA, MySQL, Netbeans RCP, JavaFX",
-                        "startDate": "2011/01/01",
-                        "endDate": "2014/04/01"
-                    }
-                ]
-            },
-            {
-                "organisation": "ESOFT Metro Campus",
-                "positions": [
-                    {
-                        "designation": "Lecturer (BEng) - Part Time",
-                        "description": "Advanced Software Engineering",
-                        "startDate": "2016/12/01",
-                        "endDate": "2017/12/31"
-                    }
-                ]
-            },
-            {
-                "organisation": "ESOFT Computer Studies",
-                "positions": [
-                    {
-                        "designation": "Lecturer (BCS/ BIT/ HND) - Part Time",
-                        "description": "OOP/ Java/ Software Engineering",
-                        "startDate": "2010/08/01",
-                        "endDate": "2014/12/31"
-                    }
-                ]
-            },
-            {
-                "organisation": "Inova Engineering (Pvt) Ltd",
-                "positions": [
-                    {
-                        "designation": "Software Engineer",
-                        "description": "Java, PHP, Mysql",
-                        "startDate": "2008/04/01",
-                        "endDate": "2010/11/15"
-                    },
-                    {
-                        "designation": "Junior Software Engineer",
-                        "description": "Java, PHP, Mysql, HTML, CSS",
-                        "startDate": "2007/03/01",
-                        "endDate": "2008/04/01"
-                    }
-                ]
-            }
+      },
+      {
+        "projectName": "Production Monitoring and KPI - OTR Wheel Engineering",
+        "projectDescription": " Progress monitoring, analysis and reporting with charting for unlimited variations of KPI data ranges  ",
+        "technologies": [
+          "Java",
+          "Spring (Boot, Data, REST, Security) ",
+          "Angular",
+          "System Design",
+          "Leading Development",
+          "CI/CD",
+          "git",
+          "tomcat",
+          "MySQL",
+          "linux"
         ]
-    },
-    "educationData": {
-        "isEnabled": true,
-        "records": [
-            {
-                "institute": "SLIIT | Sri Lanka Institute of Information Technology",
-                "award": "M.Sc. in IT (EAD)",
-                "programme": "Master of Science in Information Technology – Enterprise Applications Development",
-                "startDate": "Currently following",
-                "endDate": ""
-            },
-            {
-                "institute": "ESOFT Computer Studies",
-                "award": "BCS HEQ by British Computer Society",
-                "programme": "BCS Level 6 Professional Graduate Diploma",
-                "startDate": "2010",
-                "endDate": "2012"
-            },
-            {
-                "institute": "Java Institute for Advanced Technology",
-                "award": "SCJP by Sun Microsystems",
-                "programme": "Java Application Development",
-                "startDate": "2008",
-                "endDate": "2008"
-            }
+      },
+      {
+        "projectName": "nBiz - Front to back total SCM and Retail management solution",
+        "projectDescription": " ",
+        "technologies": [
+          "Java",
+          "Netbeans RCP",
+          "System Design",
+          "Leading Development",
+          "CI/CD",
+          "MySQL",
+          "git"
         ]
-    },
-    "certificationData": {
-        "isEnabled": true,
-        "records": [
-            {
-                "title": "SCJP",
-                "awardingBody": "Sun Microsystems",
-                "year": "2008"
-            },
-            {
-                "title": "MBCS",
-                "awardingBody": "BCS, The Chartered Institute for IT",
-                "year": "2018"
-            }
+      }
+    ]
+  },
+  "experienceData": {
+    "isEnabled": true,
+    "records": [
+      {
+        "organisation": "CMS (Private) Limited",
+        "positions": [
+          {
+            "designation": "Senior Software Engineer",
+            "description": "Spring, Angular, Docker, CD, CI, Logstash, Kibana, Linux, Filebeat, oAuth2, Elastalert, Jenkins, Mongodb, BD2, Atremis",
+            "startDate": "2019/12/02",
+            "endDate": ""
+          }
         ]
-    },
-    "publicationData": {
-        "isEnabled": false,
-        "records": [
-            {
-                "title": "Linux Mint 19 — Stable & Production ready Setup (Spring, Angular, NodeJS, LAMP, PhpMyAdmin) for full-stack developers",
-                "description": "Common problems associated with the initial launch of Linux Mint 19 and fixes to make it usable in daily production environment",
-                "link": "https://medium.com/@r.thilina/linux-mint-19-stable-production-ready-setup-spring-angular-nodejs-lamp-phpmyadmin-for-4cab596aa3"
-            },
-            {
-                "title": "Hosting Multiple Applications on the Same Server",
-                "description": "In this guide, we will talk about how to host multiple applications built on various backend technologies such as Java, PHP, and nodes on the same Ubuntu server, along with APIs and clients running under multiple domains or sub-domains on the same server.",
-                "link": "https://dzone.com/articles/guide-ubuntu-server-apache-tomcat-spring-mysql-wor"
-            }
+      },
+      {
+        "organisation": "The Apache Software Foundation",
+        "positions": [
+          {
+            "designation": "Committer / PMC Member - Netbeans",
+            "description": "Code, Lead, Review, Discuss, Write",
+            "startDate": "2018/09/18",
+            "endDate": ""
+          },
+          {
+            "designation": "Contributor - Netbeans",
+            "description": "Code, Lead, Review, Discuss, Write",
+            "startDate": "2017/01/01",
+            "endDate": "2018/09/18"
+          }
         ]
-    },
-    "externalResourcesData": {
-        "isEnabled": true,
-        "records": [
-            {
-                "name": "codersrank.io global rank: Top 1% in Java and Top 1% in Angular as of September 10, 2019.",
-                "link": "https://profile.codersrank.io/user/thilina01"
-            },
-            {
-                "name": "The Apache NetBeans Team",
-                "link": "https://netbeans.apache.org/community/who.html#_thilina_ranathunga"
-            },
-            {
-                "name": "Netbeans RCP Tribe",
-                "link": "http://netbeans-vm.apache.org/synergy/client/app/#/tribe/26/view"
-            },
-            {
-                "name": "Netbeans Contributions",
-                "link": "https://github.com/apache/incubator-netbeans/graphs/contributors"
-            },
-            {
-                "name": "Latest version of the CV",
-                "link": "https://thilina01.com/cv/"
-            },
-            {
-                "name": "An Artical on Linux Mint 19 — Stable & Production ready Setup",
-                "link": "https://medium.com/@r.thilina/linux-mint-19-stable-production-ready-setup-spring-angular-nodejs-lamp-phpmyadmin-for-4cab596aa3"
-            },
-            {
-                "name": "An Artical on Configuring a server to host apps on multiple technologies",
-                "link": "https://dzone.com/articles/guide-ubuntu-server-apache-tomcat-spring-mysql-wor"
-            }
+      },
+      {
+        "organisation": "Scicom Lanka (Private) Limited / Scicom (MSC) Bhd",
+        "positions": [
+          {
+            "designation": "Specialist Technical lead",
+            "description": "Lead, Train, Optimization, Security, Deployment, Spring, Angular, RabbitMQ",
+            "startDate": "2018/11/12",
+            "endDate": "2019/11/29"
+          }
         ]
-    },
-    "extraData": {
-        "isEnabled": false,
-        "records": [
-            {
-                "extraActivities": "Lorem ipsum dolor sit amet, ut labore et dolore magna aliqua."
-            },
-            {
-                "extraActivities": "Lorem ipsum dolor sit amet, ut labore et dolore magna aliqua."
-            },
-            {
-                "extraActivities": "Lorem ipsum dolor sit amet, ut labore et dolore magna aliqua."
-            }
+      },
+      {
+        "organisation": "Nano Creation (Pvt) Ltd.",
+        "positions": [
+          {
+            "designation": "Associate DevOps Engineer",
+            "description": "CI, CD, Travis, Jenkins, Linux, Docker, Spring, Angular",
+            "startDate": "2018/04/01",
+            "endDate": "2018/11/10"
+          },
+          {
+            "designation": "Technology Specialist",
+            "description": "Java, Spring, Angular, REST",
+            "startDate": "2017/01/01",
+            "endDate": "2018/03/31"
+          },
+          {
+            "designation": "Techlead",
+            "description": "Java, Spring, Angular, REST",
+            "startDate": "2016/02/01",
+            "endDate": "2017/01/01"
+          },
+          {
+            "designation": "Senior Software Engineer",
+            "description": "Java, Spring, MySQL, Netbeans RCP",
+            "startDate": "2014/04/01",
+            "endDate": "2016/02/01"
+          },
+          {
+            "designation": "Software Engineer",
+            "description": "Java, JPA, MySQL, Netbeans RCP, JavaFX",
+            "startDate": "2011/01/01",
+            "endDate": "2014/04/01"
+          }
         ]
-    },
-    "nonRelatedData": {
-        "isEnabled": true,
-        "refereeList": [
-            {
-                "name": "Geertjan Wielenga",
-                "designation": "Apache NetBeans PMC Chair & Apache Member",
-                "organization": "The Apache Software Foundation",
-                "contactList": [
-                    {
-                        "name": "Email",
-                        "value": "geertjan@apache.com"
-                    }
-                ]
-            },
-            {
-                "name": "Nuwan Obeyesekera",
-                "designation": "Associate Architect - SQE",
-                "organization": "SCICOM Lanka (Pvt) Ltd",
-                "contactList": [
-                    {
-                        "name": "Email",
-                        "value": "nuwan.obeyesekera@scicom.com.my"
-                    },
-                    {
-                        "name": "Phone",
-                        "value": "+94 770032766"
-                    }
-                ]
-            }
-	    
+      },
+      {
+        "organisation": "ESOFT Metro Campus",
+        "positions": [
+          {
+            "designation": "Lecturer (BEng) - Part Time",
+            "description": "Advanced Software Engineering",
+            "startDate": "2016/12/01",
+            "endDate": "2017/12/31"
+          }
         ]
-    },
-    "techHistoryData": {
-        "isEnabled": false,
-        "records": [
-            {
-                "category": "HTML/ CSS/ JS",
-                "start": "2007/01/01",
-                "end": ""
-            },
-            {
-                "category": "Java",
-                "start": "2008/01/01",
-                "end": ""
-            },
-            {
-                "category": "Git",
-                "start": "2013/01/01",
-                "end": ""
-            },
-            {
-                "category": "Netbeans RCP",
-                "start": "2013/01/01",
-                "end": ""
-            },
-            {
-                "category": "Spring",
-                "start": "2015/10/01",
-                "end": ""
-            },
-            {
-                "category": "Linux",
-                "start": "2015/10/01",
-                "end": ""
-            },
-            {
-                "category": "Angular",
-                "start": "2017/04/01",
-                "end": ""
-            },
-            {
-                "category": "Node.js",
-                "start": "2018/04/01",
-                "end": ""
-            },
-            {
-                "category": "NoSQL",
-                "start": "2018/06/01",
-                "end": ""
-            },
-            {
-                "category": "CI/ CD",
-                "start": "2018/06/01",
-                "end": ""
-            },
-            {
-                "category": "GCP/ AWS",
-                "start": "2018/06/01",
-                "end": ""
-            },
-            {
-                "category": "Docker",
-                "start": "2018/06/01",
-                "end": ""
-            }
+      },
+      {
+        "organisation": "ESOFT Computer Studies",
+        "positions": [
+          {
+            "designation": "Lecturer (BCS/ BIT/ HND) - Part Time",
+            "description": "OOP/ Java/ Software Engineering",
+            "startDate": "2010/08/01",
+            "endDate": "2014/12/31"
+          }
         ]
-    }
+      },
+      {
+        "organisation": "Inova Engineering (Pvt) Ltd",
+        "positions": [
+          {
+            "designation": "Software Engineer",
+            "description": "Java, PHP, Mysql",
+            "startDate": "2008/04/01",
+            "endDate": "2010/11/15"
+          },
+          {
+            "designation": "Junior Software Engineer",
+            "description": "Java, PHP, Mysql, HTML, CSS",
+            "startDate": "2007/03/01",
+            "endDate": "2008/04/01"
+          }
+        ]
+      }
+    ]
+  },
+  "educationData": {
+    "isEnabled": true,
+    "records": [
+      {
+        "institute": "SLIIT | Sri Lanka Institute of Information Technology",
+        "award": "M.Sc. in IT (EAD)",
+        "programme": "Master of Science in Information Technology – Enterprise Applications Development",
+        "startDate": "Currently following",
+        "endDate": ""
+      },
+      {
+        "institute": "ESOFT Computer Studies",
+        "award": "BCS HEQ by British Computer Society",
+        "programme": "BCS (Level 6) Professional Graduate Diploma in IT",
+        "startDate": "2010",
+        "endDate": "2012"
+      },
+      {
+        "institute": "Java Institute for Advanced Technology",
+        "award": "SCJP by Sun Microsystems",
+        "programme": "Java Application Development",
+        "startDate": "2008",
+        "endDate": "2008"
+      }
+    ]
+  },
+  "certificationData": {
+    "isEnabled": true,
+    "records": [
+      {
+        "title": "SCJP",
+        "awardingBody": "Sun Microsystems",
+        "year": "2008"
+      },
+      {
+        "title": "MBCS",
+        "awardingBody": "BCS, The Chartered Institute for IT",
+        "year": "2018"
+      }
+    ]
+  },
+  "publicationData": {
+    "isEnabled": false,
+    "records": [
+      {
+        "title": "Linux Mint 19 — Stable & Production ready Setup (Spring, Angular, NodeJS, LAMP, PhpMyAdmin) for full-stack developers",
+        "description": "Common problems associated with the initial launch of Linux Mint 19 and fixes to make it usable in daily production environment",
+        "link": "https://medium.com/@r.thilina/linux-mint-19-stable-production-ready-setup-spring-angular-nodejs-lamp-phpmyadmin-for-4cab596aa3"
+      },
+      {
+        "title": "Hosting Multiple Applications on the Same Server",
+        "description": "In this guide, we will talk about how to host multiple applications built on various backend technologies such as Java, PHP, and nodes on the same Ubuntu server, along with APIs and clients running under multiple domains or sub-domains on the same server.",
+        "link": "https://dzone.com/articles/guide-ubuntu-server-apache-tomcat-spring-mysql-wor"
+      }
+    ]
+  },
+  "externalResourcesData": {
+    "isEnabled": true,
+    "records": [
+      {
+        "name": "The Apache NetBeans Team",
+        "link": "https://netbeans.apache.org/community/who.html#_thilina_ranathunga"
+      },
+      {
+        "name": "Netbeans RCP Tribe",
+        "link": "http://netbeans-vm.apache.org/synergy/client/app/#/tribe/26/view"
+      },
+      {
+        "name": "Netbeans Contributions",
+        "link": "https://github.com/apache/incubator-netbeans/graphs/contributors"
+      },
+      {
+        "name": "An Article on Linux Mint 19 — Stable & Production ready Setup",
+        "link": "https://medium.com/@r.thilina/linux-mint-19-stable-production-ready-setup-spring-angular-nodejs-lamp-phpmyadmin-for-4cab596aa3"
+      },
+      {
+        "name": "An Article on Configuring a server to host apps on multiple technologies",
+        "link": "https://dzone.com/articles/guide-ubuntu-server-apache-tomcat-spring-mysql-wor"
+      },
+      {
+        "name": "An Article on Handling Spring Boot Microservice Log Files in Docker",
+        "link": "https://medium.com/@r.thilina/handling-log-files-in-spring-boot-microservices-63810289637f"
+      },
+      {
+        "name": "codersrank.io global rank: Top 1% in Java and Top 1% in Angular as of September 10, 2019.",
+        "link": "https://profile.codersrank.io/user/thilina01"
+      }
+    ]
+  },
+  "extraData": {
+    "isEnabled": false,
+    "records": [
+      {
+        "extraActivities": "Lorem ipsum dolor sit amet, ut labore et dolore magna aliqua."
+      },
+      {
+        "extraActivities": "Lorem ipsum dolor sit amet, ut labore et dolore magna aliqua."
+      },
+      {
+        "extraActivities": "Lorem ipsum dolor sit amet, ut labore et dolore magna aliqua."
+      }
+    ]
+  },
+  "nonRelatedData": {
+    "isEnabled": true,
+    "refereeList": [
+      {
+        "name": "Geertjan Wielenga",
+        "designation": "PMC Chair - Apache NetBeans",
+        "organization": "The Apache Software Foundation",
+        "contactList": [
+          {
+            "name": "Email",
+            "value": "geertjan@apache.com"
+          }
+        ]
+      },
+      {
+        "name": "Nuwan Obeyesekera",
+        "designation": "Associate Architect - SQE",
+        "organization": "SCICOM Lanka (Pvt) Ltd",
+        "contactList": [
+          {
+            "name": "Email",
+            "value": "nuwan.obeyesekera@scicom.com.my"
+          },
+          {
+            "name": "Phone",
+            "value": "+94 770032766"
+          }
+        ]
+      }
+    ]
+  },
+  "techHistoryData": {
+    "isEnabled": false,
+    "records": [
+      {
+        "category": "HTML/ CSS/ JS",
+        "start": "2007/01/01",
+        "end": ""
+      },
+      {
+        "category": "Java",
+        "start": "2008/01/01",
+        "end": ""
+      },
+      {
+        "category": "Git",
+        "start": "2013/01/01",
+        "end": ""
+      },
+      {
+        "category": "Netbeans RCP",
+        "start": "2013/01/01",
+        "end": ""
+      },
+      {
+        "category": "Spring",
+        "start": "2015/10/01",
+        "end": ""
+      },
+      {
+        "category": "Linux",
+        "start": "2015/10/01",
+        "end": ""
+      },
+      {
+        "category": "Angular",
+        "start": "2017/04/01",
+        "end": ""
+      },
+      {
+        "category": "Node.js",
+        "start": "2018/04/01",
+        "end": ""
+      },
+      {
+        "category": "NoSQL",
+        "start": "2018/06/01",
+        "end": ""
+      },
+      {
+        "category": "CI/ CD",
+        "start": "2018/06/01",
+        "end": ""
+      },
+      {
+        "category": "GCP/ AWS",
+        "start": "2018/06/01",
+        "end": ""
+      },
+      {
+        "category": "Docker",
+        "start": "2018/06/01",
+        "end": ""
+      }
+    ]
+  }
 }
